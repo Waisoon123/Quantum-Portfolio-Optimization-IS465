@@ -2,13 +2,9 @@
 Quantum Portfolio Optimization Demo Application
 
 ## Table of Contents:
-- Introduction
-- Project Setup & Requirements
-- References
-
-[Introduction](#intro)
-[Project Setup & Requirements](#setup)
-[References](#reference)
+- [Introduction](#intro)
+- [Project Setup & Requirements](#setup)
+- [References](#reference)
 
 <h3 id="intro">Introduction</h3>
 
@@ -16,8 +12,7 @@ This project leverages quantum computing to optimize portfolio management in the
 
 <h3 id="setup">Project Setup & Requirements</h3>
 
-Pre-requisites 
-Note that you may need to create an account on DWAVE - https://cloud.dwavesys.com/leap/signup/ to access the API token needed, in case the API token used in the source code has expired as this account is under a free trial with limited resources. You can find the token on the dashboard view of the website, after successfully signing up for an free trial account.
+Pre-requisites : Note that you may need to create an account on DWAVE - https://cloud.dwavesys.com/leap/signup/ to access the API token needed, in case the API token used in the source code has expired as this account is under a free trial with limited resources. You can find the token on the dashboard view of the website, after successfully signing up for an free trial account.
 
 1. Clone Repository from Github Desktop
 2. Open cmd in directory of the cloned files / open in visual studio code terminal
